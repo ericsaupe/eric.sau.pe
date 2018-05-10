@@ -1,7 +1,7 @@
 ---
 templateKey: blog-post
 title: Django Timezone Conversions
-date: '2018-05-10T12:06:11-07:00'
+date: '2013-07-17T12:06:00-07:00'
 tags:
   - conversion
   - django
