@@ -79,10 +79,10 @@ I got a lot of this code from Googleing around but altered it almost entirely to
 
 Final product!  Works great.  Everyone I've showed seems to love it and I'm pretty proud of it.
 
-![](/img/screenshot-from-2013-07-29-171006.png)
+![null](/img/screenshot-from-2013-07-29-171006.png)
 
 EDIT:
 
 Here's a shot when the user clicks on the time.  It displays the user's office.  Clicking on the office will bring up their profile where they can change this setting.
 
-![](/img/screenshot-from-2013-07-29-171302-300x75.png)
+![null](/img/screenshot-from-2013-07-29-171302-300x75.png)
