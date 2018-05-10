@@ -2,11 +2,6 @@
 templateKey: blog-post
 title: Starting Again
 date: '2013-05-23T11:02:00-07:00'
-description: >-
-  Welcome to my new blog.  Created for me to take notes on my every day workings
-  and findings in the areas of web development and computer science.  I will try
-  to update regularly with notes that I take each day working on the various
-  projects that I do.
 tags:
   - computer science
   - cs
@@ -16,6 +11,8 @@ tags:
   - wordpress
 ---
 Hello,
+
+Welcome to my new blog.  Created for me to take notes on my every day workings and findings in the areas of web development and computer science.  I will try to update regularly with notes that I take each day working on the various projects that I do.
 
 A little about myself, I am a recent graduate of the University of Utah with a Bachelors Degree in Computer Science.  I work full-time as the software engineering manager for a textile testing company and do sub-contract work on the side.  I created this blog as a place to keep my notes, establish discussion, and learn the tricks of programming and designing WordPress sites.
 
