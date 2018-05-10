@@ -1,7 +1,7 @@
 ---
 templateKey: blog-post
 title: Django Translation Creating Locale Folders
-date: '2018-05-10T11:45:13-07:00'
+date: '2013-06-27T11:45:00-07:00'
 tags:
   - django
   - i18n
