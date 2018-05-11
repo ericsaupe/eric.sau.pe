@@ -1,7 +1,7 @@
 ---
 templateKey: blog-post
 title: Bootstrap ScrollSpy Pitfalls and Fixes
-date: '2018-05-11T11:04:02-07:00'
+date: '2013-08-20T11:04:00-07:00'
 tags:
   - bootstrap
   - bootstrap 3
