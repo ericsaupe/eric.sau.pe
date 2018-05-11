@@ -67,4 +67,4 @@ There is a lot more to the Django messages framework including error levels that
 
 Here is a screenshot of an example I did just to test things out.
 
-![](/img/screenshot-from-2013-08-22-090947-300x134.png)
+![null](/img/screenshot-from-2013-08-22-090947-300x134.png)
